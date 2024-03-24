@@ -1,0 +1,24 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/e-commerce-website.png",
+            "title": "E-commerce Website",
+            "description": "HTML, CSS, JS",
+            "url": "https://dancing-llama-77524d.netlify.app"
+        },
+
+        {
+            "cover": "/portfolio/1/movie-browser.png",
+            "title": "Movie Browser",
+            "description": "React, JSX, Bootstrap, fetchAPI",
+            "url": "https://peppy-tanuki-c0921b.netlify.app"
+        },
+
+        {
+            "cover": "/portfolio/1/student-crud-app.png",
+            "title": "Student CRUD app",
+            "description": "React, mySQL, Bootstrap",
+            "url": "https://student-crud-mysql.netlify.app"
+        }
+    ] 
+}
