@@ -19,6 +19,13 @@
             "title": "Student CRUD app",
             "description": "React, mySQL, Bootstrap",
             "url": "https://student-crud-mysql.netlify.app"
+        },
+
+        {
+            "cover": "/portfolio/1/Snapgram.png",
+            "title": "Social media platform",
+            "description": "React, Typescript, Tailwind CSS, Appwrite and more",
+            "url": "https://snapgram89.netlify.app/"
         }
     ] 
 }
