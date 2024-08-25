@@ -8,11 +8,29 @@
         },
 
         {
+            "cover": "/portfolio/1/lougle.png",
+            "title": "Google Clone w/Dark mode",
+            "description": "HTML, CSS, JS",
+            "url": "https://heartfelt-mandazi-63c974.netlify.app"
+        },
+
+
+
+        {
+            "cover": "/portfolio/1/portfoliodesign1.png",
+            "title": "Portfolio design 1",
+            "description": "HTML, CSS, JS",
+            "url": "https://capable-kulfi-422fa6.netlify.app"
+        },
+
+        {
             "cover": "/portfolio/1/movie-browser.png",
             "title": "Movie Browser",
             "description": "React, JSX, Bootstrap, fetchAPI",
             "url": "https://peppy-tanuki-c0921b.netlify.app"
         },
+
+        
 
         {
             "cover": "/portfolio/1/student-crud-app.png",
